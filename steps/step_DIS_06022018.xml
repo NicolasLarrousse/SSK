@@ -7,7 +7,7 @@
   <fileDesc>
    <titleStmt>
     <title>
-     Step "Assess legal issues"
+     Step "Define imaging specifications"
     </title>
     <author>
      <persName>
@@ -46,7 +46,7 @@
    <listEvent>
     <event type="researchStep">
      <head xml:lang="en">
-      Define Imaging specifications
+      Define imaging specifications
      </head>
      <head xml:lang="fr">
       Définir les spécifications de la numérisation
